@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kishore-ayn
-- 👀 I’m interested in webscraping & python
+- 👀 I’m interested in Frontend Development & Python Development
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Python Developer or webscraping
-- 📫 How to reach me you can always text me
+- 💞️ I’m looking to collaborate on Python Developer or Frontend Developer Roles
+- 📫 How to reach me you can always text me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
