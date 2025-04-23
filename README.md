@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kishore-ayn
-- 👀 I’m interested in Frontend Development & Python Development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on Python Developer or Frontend Developer Roles
+- 👀 I’m interested in SQL Development & Data Engineering
+- 🌱 I’m currently learning Data Engineering
+- 💞️ I’m looking to collaborate on SQL Developer or Data Engineering roles
 - 📫 How to reach me you can always text me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
