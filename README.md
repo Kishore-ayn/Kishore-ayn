@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishore-ayn" alt="kishore-ayn" /></a> </p>
 
-- 🌱 I’m currently learning **Apache Airflow, Kafka, Azure Cloud**
+- 🌱 I’m currently learning **Kafka, Azure Cloud**
 
 - 👯 I’m looking to collaborate on **Any projects related to Data Engineering**
 
