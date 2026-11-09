@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI Product Engineering**
 
-- 👯 I’m looking to collaborate on **Any projects related to Product Management**
+- 👯 I’m looking to collaborate on **Any projects related to Product Management, Full Stack development and any AI applications**
 
 - 📫 How to reach me **kishore.ayn@gmail.com**
 
