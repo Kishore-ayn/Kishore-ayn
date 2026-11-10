@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kishore Senapathi</h1>
-<h3 align="center">A passionate Product Manager from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishore-ayn&label=Profile%20views&color=0e75b6&style=flat" alt="kishore-ayn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishore-ayn" alt="kishore-ayn" /></a> </p>
 
-- 🌱 I’m currently learning **AI Product Engineering**
+- 🌱 I’m currently learning **AI Engineering**
 
-- 👯 I’m looking to collaborate on **Any projects related to Product Management, Full Stack development and any AI applications**
+- 👯 I’m looking to collaborate on **Any projects related to Product Management, Full Stack development and AI applications**
 
 - 📫 How to reach me **kishore.ayn@gmail.com**
 
